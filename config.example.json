@@ -1,0 +1,13 @@
+{
+    "prefix": "!",
+    "token": "AAAAAAAAAAAAAAAAAAAAAAA",
+    "application_id": "1111111111111111",
+    "text_channel_id": "11111111111111111",
+    "voice_channel_id": "1111111111111111111",
+    "sync_commands_globally": false,
+    "owners": [
+        11111111111111111111
+    ],
+    "app_path": "C:\\path\\to\\directory",
+    "invite_link": "https: //discordapp.com/oauth2/authorize?client_id=HERE_GOES_BOT_CLIENT_ID&scope=bot"
+}
